@@ -1,5 +1,5 @@
 # py_pg_cmds
-This is a small script to run n number of postgres commands in parallel.
+run lots of pg cmds at the same time
 
 ```
 python py_pg_cmds.py host database username password role dir threads work_mem_gb
