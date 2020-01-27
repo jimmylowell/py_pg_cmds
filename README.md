@@ -1,4 +1,4 @@
-# PyPGcmds
+# py_pg_cmds
 This is a small script to run n number of postgres commands in parallel.
 
 ```
