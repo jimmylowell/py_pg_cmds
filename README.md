@@ -2,7 +2,7 @@
 This is a small script to run n number of postgres commands in parallel.
 
 ```
-python postgres_cmd.py host database username password role dir threads work_mem_gb
+python py_pg_cmds.py host database username password role dir threads work_mem_gb
 
 positional arguments:
   host         hostname to connect to
